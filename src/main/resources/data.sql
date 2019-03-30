@@ -15,3 +15,12 @@ VALUES (10005, 'diego', 'Learn how to integrate Angular + Firebase', sysdate(), 
 
 INSERT INTO todo(id, username, description, target_date,is_done)
 VALUES (10006, 'diego', 'Learn how to program Chips', sysdate(), false);
+
+INSERT INTO todo(id, username, description, target_date,is_done)
+VALUES (10006, 'admin', 'Learn how to became a good admin', sysdate(), false);
+
+INSERT INTO todo(id, username, description, target_date,is_done)
+VALUES (10006, 'admin', 'Install a good internet', sysdate(), false);
+
+INSERT INTO todo(id, username, description, target_date,is_done)
+VALUES (10006, 'admin', 'Learn Firebase', sysdate(), false);
